@@ -1,0 +1,16 @@
+<config>
+    <menu>
+        <catalog>
+            <children>
+                <attributes>
+                    <children>
+                        <defvalues translate="title" module="catalog">
+                            <title>Manage Default Values</title>
+                            <action>adminhtml/defvalues/</action>
+                        </defvalues>
+                    </children>
+                </attributes>
+            </children>
+        </catalog>
+    </menu>
+</config>
